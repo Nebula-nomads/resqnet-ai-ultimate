@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+python-dotenv
+rapidfuzz
+geopy
+httpx
+apscheduler
+# google-generativeai   # uncomment only if you add a GEMINI_API_KEY in backend/.env
